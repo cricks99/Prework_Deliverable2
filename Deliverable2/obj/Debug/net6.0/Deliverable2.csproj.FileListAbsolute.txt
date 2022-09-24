@@ -1,0 +1,15 @@
+M:\GrandCircus\Deliverable2\Deliverable2\bin\Debug\net6.0\Deliverable2.exe
+M:\GrandCircus\Deliverable2\Deliverable2\bin\Debug\net6.0\Deliverable2.deps.json
+M:\GrandCircus\Deliverable2\Deliverable2\bin\Debug\net6.0\Deliverable2.runtimeconfig.json
+M:\GrandCircus\Deliverable2\Deliverable2\bin\Debug\net6.0\Deliverable2.dll
+M:\GrandCircus\Deliverable2\Deliverable2\bin\Debug\net6.0\Deliverable2.pdb
+M:\GrandCircus\Deliverable2\Deliverable2\obj\Debug\net6.0\Deliverable2.csproj.AssemblyReference.cache
+M:\GrandCircus\Deliverable2\Deliverable2\obj\Debug\net6.0\Deliverable2.GeneratedMSBuildEditorConfig.editorconfig
+M:\GrandCircus\Deliverable2\Deliverable2\obj\Debug\net6.0\Deliverable2.AssemblyInfoInputs.cache
+M:\GrandCircus\Deliverable2\Deliverable2\obj\Debug\net6.0\Deliverable2.AssemblyInfo.cs
+M:\GrandCircus\Deliverable2\Deliverable2\obj\Debug\net6.0\Deliverable2.csproj.CoreCompileInputs.cache
+M:\GrandCircus\Deliverable2\Deliverable2\obj\Debug\net6.0\Deliverable2.dll
+M:\GrandCircus\Deliverable2\Deliverable2\obj\Debug\net6.0\refint\Deliverable2.dll
+M:\GrandCircus\Deliverable2\Deliverable2\obj\Debug\net6.0\Deliverable2.pdb
+M:\GrandCircus\Deliverable2\Deliverable2\obj\Debug\net6.0\Deliverable2.genruntimeconfig.cache
+M:\GrandCircus\Deliverable2\Deliverable2\obj\Debug\net6.0\ref\Deliverable2.dll
